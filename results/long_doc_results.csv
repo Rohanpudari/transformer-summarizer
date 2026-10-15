@@ -1,0 +1,5 @@
+metric,truncated,chunked,diff,ci_low,ci_high,significant
+rouge1,34.761,34.124,-0.637,-2.92,1.505,False
+rouge2,16.141,13.841,-2.301,-4.74,-0.081,True
+rougeL,23.832,22.474,-1.358,-3.679,0.774,False
+bertscore_f1,0.095,0.08,-0.016,-0.045,0.012,False

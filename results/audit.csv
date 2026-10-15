@@ -1,0 +1,6 @@
+system,novel_bigram_%,with_unsupported_number_%,with_unsupported_entity_%
+CNN/DM | distilbart-cnn-12-6,13.2,0.0,10.0
+CNN/DM | bart-large-cnn,10.6,0.0,8.0
+CNN/DM | pegasus-cnn_dailymail,21.5,2.0,13.0
+BillSum | truncated,11.2,6.0,14.0
+BillSum | chunked,9.3,2.0,4.0

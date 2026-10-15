@@ -1,0 +1,4 @@
+model,rouge1,rouge2,rougeL,bertscore_f1,compression_ratio,mean_latency_s,n_samples
+distilbart-cnn-12-6,44.417,20.928,29.69,0.307,0.129,1.043,100
+bart-large-cnn,43.991,21.275,30.582,0.302,0.122,1.458,100
+pegasus-cnn_dailymail,44.349,20.189,30.637,0.314,0.101,1.705,100

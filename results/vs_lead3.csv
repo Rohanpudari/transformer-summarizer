@@ -1,0 +1,13 @@
+model,metric,diff_vs_lead3,ci_low,ci_high,significant
+distilbart-cnn-12-6,rouge1,4.737,2.842,6.614,True
+distilbart-cnn-12-6,rouge2,4.263,2.444,6.093,True
+distilbart-cnn-12-6,rougeL,4.754,2.74,6.757,True
+distilbart-cnn-12-6,bertscore_f1,0.059,0.038,0.079,True
+bart-large-cnn,rouge1,4.332,2.264,6.432,True
+bart-large-cnn,rouge2,4.64,2.587,6.749,True
+bart-large-cnn,rougeL,5.627,3.656,7.712,True
+bart-large-cnn,bertscore_f1,0.054,0.033,0.076,True
+pegasus-cnn_dailymail,rouge1,4.664,2.412,6.954,True
+pegasus-cnn_dailymail,rouge2,3.498,1.392,5.668,True
+pegasus-cnn_dailymail,rougeL,5.663,3.45,7.948,True
+pegasus-cnn_dailymail,bertscore_f1,0.066,0.041,0.092,True
